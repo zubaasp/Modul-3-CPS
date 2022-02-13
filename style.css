@@ -1,0 +1,67 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header
+{
+    height: 100vh;
+    text-align: center;
+
+}
+.navbar-style
+{
+    box-shadow: 0 5px 10px #efefef;
+    text-transform: uppercase;
+    text-align: center;
+    position: bottom;
+
+}
+.blog-header-logo
+{
+    height: 100px;
+    padding: 2px 18px;
+}
+.icon-bar
+{
+    background:darkolivegreen;
+}
+li a
+{
+    color: #333;
+}
+.col-sm-6
+{
+    font-size: 105px;
+    color: blue;
+    font-family: cursiImpact, Haettenschweiler, 'Arial Narrow Bold', sans-serifve;
+}
+.title
+{
+    font-size: 100px ;
+    color: forestgreen;
+    font-family: cursive;
+}
+
+.big-text
+{
+    font-size: 58px;
+    color: darkviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.img-responsive
+{
+    height: 100px;
+    padding: 2px 18px; 
+    position: center;
+}
+.body
+{
+    background-color: darkblue;
+}
+.button
+{
+    border-radius: 50px;
+}
+
